@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/laurensperber
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://laurensperber.com
+  * I am laurensperber (https://keybase.io/laurensperber) on keybase.
+  * I have a public key with fingerprint 5ED7 5345 8F8B 7DAF 2364  7003 2D28 7331 70EC 97DD
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205780ad6836fb6d0329d8ef3497b34d438d8b882c68562cc271e2ac22735d2d130a",
+      "fingerprint": "5ed753458f8b7daf236470032d28733170ec97dd",
+      "host": "keybase.io",
+      "key_id": "2d28733170ec97dd",
+      "kid": "01014f37c03640169f4163d5b169dad4cea3cee0bc6e10dfcd0d8a4799ec697ebaee0a",
+      "uid": "2df910882fceb404989188e0e39dd619",
+      "username": "laurensperber"
+    },
+    "service": {
+      "hostname": "laurensperber.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1569426767,
+  "expire_in": 157680000,
+  "prev": "99c888f6bf01c906f7c849a77ffcfe908b08d7a94529d6f223467904332030b7",
+  "seqno": 47,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yMNxAnicbVJtTBRXFN0VhQhChEIsSNpkLGoM0DcfO/NmLSrdRdRi0VCtNtB1Zt6b
+ZQR2l50FipSWWFJSTEmTgjRAW0HZikXTlgjWEAJWLUhrlUKt1oUQsaTGpSwaSwqU
+zhj95/vzPu45595z370YHmQINSatV0nX/XqfcbCvpciQc+TjzDJCdKJSwlxG5OHH
+G85HWPXY8hREmAlAUsDEQSAgFtKsLLII0BSPIJZphudEmkEMDREUIaQkFppYSpIo
+jsSUIFEUR5sQhUgaCEQiISsOO3a73IrDo8maMOJMNGOCMhQ5JMgUzTIc0KQRBTma
+JjmAJZ5DSCPmOlWdoRUnCipOVpzam3axPS7vGfindQOSkWlOApoyIFleZkiWRiZR
+OyIBMRIWaAljIEosJgGSJQQQFBiO57HE8hwWBS2o1130JI/Mk0AzKUtYZADDQ56E
+EANM8wixJK8DVex2CAVYQ+cLRW7sUF3YLWI3UZ5IaKFiRcJ6d3U7z4IlS84CTcXl
+dnqckjNfC+d6PC7VrNM9pS4dX4JF2xMlm6g4kNZRjVGM3aridBBmUkNKHkWXJk0s
+z1Asx3KJBH7HpbixTdERJo6FQFt6HlysSfK8BCGUWVEGpMQDVuYkyPACx8myJGMe
+QBFAxAk8Y9I+nZUpimZYjgcMTVOABiJH6N4KHU7CzGipPIJd01QVu0PwaNaI8gt9
+2UsNxlBD8LIl+qgZQpevfDqAC/krDd07hTebZb651796PKKlKCNnj2Xdjq8+bZw5
+nTgceLQpsqkkJar6uet70+TNfFz9QMvliAZl48vZ+9f+nhACcsLf2hU1jEblwgcb
+zy4eCvPdjt8cmGiN6xpcBid2GbYFFiu++TA47S+68Pn84pkr7f6Db5jnp7ytD4Pd
+PTv8JZ+rwWOxWR1HMn4eOnIx9kZcTF5s5IU7baP9BxrLTkzad9dOtb/X+1FHRqO3
+90qtT3WXj9BNl/Mfzd7r/m+uN2XLYGbJ3y8y32/h070Zzc2r4BlYs/ZYx8EXTgWG
+Fo8t1FakxR/O9s6dazyRW/CgqaqmrOrtyIVT068UHN8a/W9z9fnKthLvUuv7/sDV
+S4e+sHij+3yoOGykre2TcG77j/stMfEbhrqnOgtTjdZbxytnO+OqwlaUN5jTp19d
+M3G/cOvUH+EwXepfUE6/3lA6XfND5sPbrwnXBsYqju7ukpPW3x20jN34h9l+80uL
+amhPyfJ5z3RZ10TsCcqd3RCZ6ZvfNu/9jahZfdd4i486eWBT/5/j17MsRyvqqn+K
+tmZED8i/eoYa66qM794ZDYyumByPXXf1Xmd93pjt8GhPiJjMXDtrr7u0z6ok+ELS
+Yr8OC0+YuPlZROmS5QUtv+xNne84SXac/2BnhFm25I6sYr6tbA1GccOhSSgp5pw9
+aPK7Hr/Vz740ntoyM7fvf5HFyJY=
+=yol8
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/laurensperber
+
+==================================================================
