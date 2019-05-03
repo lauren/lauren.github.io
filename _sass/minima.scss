@@ -210,7 +210,7 @@ ul.icons {
 		filter: none;
         zoom: normal;
         display: inline;
-        padding: 0em 1em;
+        padding: 1em;
 	}
 	a {
 		color: $bodyFontColor;
@@ -241,7 +241,7 @@ ul.icons {
     padding: 1em;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 700px) {
     body {
         padding-bottom: 1em;
     }
@@ -253,5 +253,23 @@ ul.icons {
     .rightpic, .leftpic {
         float: none;
         padding: 0em;
+    }
+
+    .hide-xs {
+        display: none;
+    }
+
+    .show-xs {
+        display: block;
+    }
+}
+
+@media (min-width: 701px) {
+    .hide-xs {
+        display: block;
+    }
+
+    .show-xs {
+        display: none;
     }
 }

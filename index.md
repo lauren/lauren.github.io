@@ -11,11 +11,25 @@ This website: This site holds a space for me to share ideas and personal project
 
 <h4 class="text-center">Other places to find me</h4>
 
-<ul class="icons text-center">
+<ul class="icons text-center hide-xs">
     <li><a title="twitter" href="http://twitter.com/laurensperber" onclick="_gaq.push(['_trackEvent', 'outbound_link', 'twitter', 'laurensperber']);"><i class="fab fa-2x fa-twitter"></i></a></li> 
     <li><a title="github" href="http://github.com/lauren" onclick="_gaq.push(['_trackEvent', 'outbound_link', 'github', 'lauren']);"><i class="fab fa-2x fa-github"></i></a></li> 
     <li><a title="instagram" href="http://instagram.com/sperbs.on.ice" onclick="_gaq.push(['_trackEvent', 'outbound_link', 'instagram', 'sperbsonice']);"><i class="fab fa-2x fa-instagram"></i></a></li> 
-    <li><a title="pinterest" href="http://pinterest.com/laurensperber" onclick="_gaq.push(['_trackEvent', 'outbound_link', 'pinterest', 'laurensperber']);"><i class="fab fa-2x fa-pinterest"></i></a></li>
+    <li><a title="ravelry" href="https://www.ravelry.com/people/laurensperber" onclick="_gaq.push(['_trackEvent', 'outbound_link', 'ravelry', 'laurensperber']);"><i class="fab fa-2x fa-ravelry"></i></a></li>
     <li><a title="linkedin" href="http://linkedin.com/in/laurensperber" onclick="_gaq.push(['_trackEvent', 'outbound_link', 'linkedin', 'laurensperber']);"><i class="fab fa-2x fa-linkedin"></i></a></li>
     <li><a title="etsy" href="https://www.etsy.com/shop/KenspeckleKnits" onclick="_gaq.push(['_trackEvent', 'outbound_link', 'etsy', 'kenspeckleknits']);"><i class="fab fa-2x fa-etsy"></i></a></li>
 </ul>
+
+<div class="show-xs">
+    <ul class="icons text-center">
+        <li><a title="twitter" href="http://twitter.com/laurensperber" onclick="_gaq.push(['_trackEvent', 'outbound_link', 'twitter', 'laurensperber']);"><i class="fab fa-2x fa-twitter"></i></a></li> 
+        <li><a title="github" href="http://github.com/lauren" onclick="_gaq.push(['_trackEvent', 'outbound_link', 'github', 'lauren']);"><i class="fab fa-2x fa-github"></i></a></li> 
+        <li><a title="instagram" href="http://instagram.com/sperbs.on.ice" onclick="_gaq.push(['_trackEvent', 'outbound_link', 'instagram', 'sperbsonice']);"><i class="fab fa-2x fa-instagram"></i></a></li> 
+    </ul>
+    <ul class="icons text-center">
+        <li><a title="ravelry" href="https://www.ravelry.com/people/laurensperber" onclick="_gaq.push(['_trackEvent', 'outbound_link', 'ravelry', 'laurensperber']);"><i class="fab fa-2x fa-ravelry"></i></a></li>
+        <li><a title="linkedin" href="http://linkedin.com/in/laurensperber" onclick="_gaq.push(['_trackEvent', 'outbound_link', 'linkedin', 'laurensperber']);"><i class="fab fa-2x fa-linkedin"></i></a></li>
+        <li><a title="etsy" href="https://www.etsy.com/shop/KenspeckleKnits" onclick="_gaq.push(['_trackEvent', 'outbound_link', 'etsy', 'kenspeckleknits']);"><i class="fab fa-2x fa-etsy"></i></a></li>
+    </ul>
+
+</div>
