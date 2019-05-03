@@ -3,7 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: About
 ---
 
 Me: I'm a senior software engineer at <a href="https://mailchimp.com">Mailchimp</a> and previously <a href="https://etsy.com">Etsy</a>. Before I started programming professionally, I worked as a product manager for a few startups. I love <a href="http://instagram.com/sperbs.on.ice">figure skating</a> and <a href="https://www.etsy.com/shop/KenspeckleKnits">knitting</a>.
