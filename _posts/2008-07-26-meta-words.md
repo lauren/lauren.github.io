@@ -63,14 +63,14 @@ tags:
 
 **onomatomania**: Obsession with a particular word which the person uses repeatedly or which intrudes into consciousness. _[ed. note: A year ago, I commented on [the wordie page for onomatomania](http://wordie.org/words/onomatomania) that I have this condition for kenspeckle.]_
 
+<p>
+  And even more meta-words from Wordie user <a href="http://wordie.org/people/profile/alguien">alguien</a>&#8216;s list <a href="http://wordie.org/lists/7734">Words About Words</a>:
+</p>
+
 <div class="leftpic">
   <a href="http://flickr.com/photos/kool_skatkat/92986414/"><img src="/images/2008/07/kool-skatkat-lost-words.jpg" alt="lost words by kool skatkat" /></a>
   <div class="caption"><a href="http://flickr.com/photos/kool_skatkat/92986414/">&#8220;lost words&#8221;</a> by flickr user <a href="http://flickr.com/photos/kool_skatkat/">kool skatkat</a></div>
 </div>
-
-<p>
-  And even more meta-words from Wordie user <a href="http://wordie.org/people/profile/alguien">alguien</a>&#8216;s list <a href="http://wordie.org/lists/7734">Words About Words</a>:
-</p>
 
 **hyperbaton**: Reversal of normal word order.
 
