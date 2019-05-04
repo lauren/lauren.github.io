@@ -7,7 +7,7 @@ layout: home
 
 Me: I'm a senior software engineer at <a href="https://mailchimp.com">Mailchimp</a> and previously <a href="https://etsy.com">Etsy</a>. Before I started programming professionally, I worked as a product manager for a few startups. I love <a href="http://instagram.com/sperbs.on.ice">figure skating</a> and <a href="https://www.etsy.com/shop/KenspeckleKnits">knitting</a>.
 
-This website: This site holds a space for me to share ideas and personal projects, all of which are a little dusty at the moment. Between September 2005 and September 2008, I blogged a ton on a site I called <a href="/what-is-kenspeckle">kenspeckle</a> (it means “conspicuous” in Scottish), mostly about the literary criticism I was studying in grad school at the time or random internet art I found interesting. I’ve imported a few of my old posts to this site for posterity.
+This website: This site holds a space for me to share ideas and personal projects, all of which are a little dusty at the moment. Between September 2005 and September 2008, I blogged a ton on a site I called <a href="/2005/09/03/what-is-kenspeckle/">kenspeckle</a> (it means “conspicuous” in Scottish), mostly about the literary criticism I was studying in grad school at the time or random internet art I found interesting. I’ve imported a few of my old posts to this site for posterity.
 
 <h4 class="text-center">Other places to find me</h4>
 
