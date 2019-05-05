@@ -159,6 +159,11 @@ body {
 	line-height: $lineheight;
 	font-family: $body-font;
     color: $bodyFontColor;
+    min-height: 100%;
+}
+
+main {
+    min-height: 20em;
 }
 
 header {
