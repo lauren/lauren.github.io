@@ -11,7 +11,7 @@ dsq_thread_id:
 categories:
   - literature
 ---
-<img src="/images/2006/02/tree-apple-box.jpg" alt="apple box tree" class="leftpic" />
+<img src="https://laurensperber.com/images/2006/02/tree-apple-box.jpg" alt="apple box tree" class="leftpic" />
 
 &#8220;Trees raise the sky by being so big and yet having so much further to go. Trees create room.&#8221;&mdash;[Sven Lindqvist](http://en.wikipedia.org/wiki/Sven_Lindqvist "wikipedia article"), _Exterminate all the Brutes_
 

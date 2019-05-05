@@ -24,7 +24,7 @@ Anyway, description of the usual activities of Lupercalia, from the wikipedia ar
 > The sacrificial feast followed, after which the Luperci cut thongs from the skins of the victims, which were called Februa, dressed themselves in the skins of the sacrificed goats, in imitation of Lupercus, and ran round the walls of the old Palatine city, the line of which was marked with stones, with the thongs in their hands in two bands, striking the people who crowded near. Girls and young women would line up on their route to receive lashes from these whips. This was supposed to ensure fertility, prevent sterility in women and ease the pains of childbirth. This tradition itself may survive (Christianised, and shifted to Spring) in certain ritual Easter Monday whippings.
 
 <div class="leftpic">
-  <a href="http://www.history.com/minisites/valentine/"><img src="/images/2008/02/lupercalia.jpg" alt="history channel screenshot" /></a>
+  <a href="http://www.history.com/minisites/valentine/"><img src="https://laurensperber.com/images/2008/02/lupercalia.jpg" alt="history channel screenshot" /></a>
   <div class="caption">painting depicting Lupercalia lashings from the <a href="http://www.history.com/minisites/valentine/">History Channel&#8217;s V-day video</a></div>
 </div>
 

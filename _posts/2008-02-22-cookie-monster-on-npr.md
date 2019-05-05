@@ -21,7 +21,7 @@ tags:
   - talk radio
 ---
 <div class="leftpic">
-  <a href="http://www.npr.org/templates/story/story.php?storyId=18659731"><img src="/images/2008/02/cookie-npr.jpg" alt="cookie on npr" /></a>
+  <a href="http://www.npr.org/templates/story/story.php?storyId=18659731"><img src="https://laurensperber.com/images/2008/02/cookie-npr.jpg" alt="cookie on npr" /></a>
   <div class="caption">Elizabeth Blair and Cookie Monster</div>
 </div>
 
@@ -30,7 +30,7 @@ Because [NPR](http://npr.org)&#8216;s [_In Character_](http://www.npr.org/templa
 Elizabeth Blair starts the inteview like so: &#8220;We at NPR News have high journalistic standards. So I sat down with _[Cookie Monster](http://en.wikipedia.org/wiki/Cookie_Monster)_ for an exclusive interview.&#8221;
 
 <div class="rightpic">
-  <a href="http://muppet.wikia.com/wiki/Cookie_Monster_Through_the_Years"><img src="/images/2008/02/wheel-stealer.jpg" alt="wheel stealer" /></a>
+  <a href="http://muppet.wikia.com/wiki/Cookie_Monster_Through_the_Years"><img src="https://laurensperber.com/images/2008/02/wheel-stealer.jpg" alt="wheel stealer" /></a>
   <div class="caption">The original <a href="http://muppet.wikia.com/wiki/Cookie_Monster_Through_the_Years">Wheel Stealer</a>, from the <a href="http://muppet.wikia.com">Muppet Wiki</a></div>
 </div>
 

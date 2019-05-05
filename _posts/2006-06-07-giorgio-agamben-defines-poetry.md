@@ -13,7 +13,7 @@ categories:
   - literature
 ---
 <div class="leftpic">
-  <a href="http://en.wikipedia.org/wiki/Giorgio_Agamben" title="wikipedia article"><img src="/images/2006/06/giorgio-agamben.jpg" alt="giorgio agamben" /></a>
+  <a href="http://en.wikipedia.org/wiki/Giorgio_Agamben" title="wikipedia article"><img src="https://laurensperber.com/images/2006/06/giorgio-agamben.jpg" alt="giorgio agamben" /></a>
   <div class="caption">Giorgio Agamben</div>
 </div>
 

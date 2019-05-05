@@ -27,7 +27,7 @@ tags:
   - ulysses
   - words
 ---
-[<img src="/images/2008/06/james-joyce.jpg" alt="james joyce" class="rightpic" />](http://en.wikipedia.org/wiki/James_Joyce)
+[<img src="https://laurensperber.com/images/2008/06/james-joyce.jpg" alt="james joyce" class="rightpic" />](http://en.wikipedia.org/wiki/James_Joyce)
 
 In honor of [Bloomsday](http://en.wikipedia.org/wiki/Bloomsday) (which is _today_, if you haven&#8217;t been at an all-day reading of [_Ulysses_](http://en.wikipedia.org/wiki/Ulysses_%28novel%29) like some people), one of the two daily definition/etymology e-newsletters I subscribe to, [wordsmith.org](http://wordsmith.org/)&#8216;s [A.Word.A.Day](http://wordsmith.org/awad/index.html), sent out five words from the Irish last week. They were:
 

@@ -14,7 +14,7 @@ categories:
   - politics
 ---
 <div class="leftpic">
-  <a href="http://face2faceproject.com/"><img src="/images/2007/03/face2face.jpg" alt="mockup of face2face implementation" /></a>
+  <a href="http://face2faceproject.com/"><img src="https://laurensperber.com/images/2007/03/face2face.jpg" alt="mockup of face2face implementation" /></a>
   <div class="caption">mockup of how <a href="http://face2faceproject.com/">face2face</a> will be implemented from <a href="http://www.jr-art.net/">JR</a>&#8216;s site</div>
 </div>
 

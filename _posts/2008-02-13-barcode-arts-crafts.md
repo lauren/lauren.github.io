@@ -35,7 +35,7 @@ Flickr user [Magitisa](http://www.flickr.com/photos/crystalginn/) must have an i
 [**every barcode**](http://www.barcodeart.com/art/digital_frames.html)
 
 <div class="rightpic">
-  <a href="http://www.barcodeart.com/art/digital_frames.html"><img src="/images/2008/02/every-barcode.jpg" alt="every barcode screensho" /></a>
+  <a href="http://www.barcodeart.com/art/digital_frames.html"><img src="https://laurensperber.com/images/2008/02/every-barcode.jpg" alt="every barcode screensho" /></a>
 </div>
 
 In case you forgot what barcodes _used_ to look like, there&#8217;s the non-cameraphone-compatible [Every Barcode](http://www.barcodeart.com/art/digital_frames.html) animation by the barcode-obsessed Scott Blake of [Barcode Art](http://www.barcodeart.com). He&#8217;s got plenty of other barcode goodness, but Every Barcode is definitely the best&mdash;how can you beat a flash animation that cycles through all 10,000,000,000,000 possible barcodes (if you let it run for ten years, that is)?

@@ -19,14 +19,14 @@ But honestly, isn&#8217;t the Christmas/Chanukah/Kwanzaa trope starting to get a
 
 Why not take a wikipedia-sponsored gander at the truly underrepresented winter festivities?
 
-<img src="/images/2006/12/humanlight-logo.jpg" alt="humanlight logo" class="leftpic" />
+<img src="https://laurensperber.com/images/2006/12/humanlight-logo.jpg" alt="humanlight logo" class="leftpic" />
 
 **[HumanLight](http://en.wikipedia.org/wiki/HumanLight):** If you&#8217;re too staunch of a secular humanist for even the &uuml;ber-commercialized and non-religious versions of Christmas and Chanukah we celebrate in the U.S., why not wish your friends a Happy [HumanLight](http://www.humanlight.org/ "official site"), with warm wishes of &#8220;humanity, reason, hope,&#8221; and completely fabricated holidays?
 
 **[Dongzh&igrave;](http://en.wikipedia.org/wiki/D%C5%8Dngzh%C3%AC_Festival):** This Chinese celebration of the winter solstice cannot be properly transliterated in valid [xhtml characters](http://www.digitalmediaminute.com/reference/entity/index.php) <span class="strike">and instantiates the famous yin-yang balance in the universe as a transitional day in the Chinese calendar</span>.
 
 <div class="rightpic" style="width:354px;">
-  <a href="http://www.chinesefortunecalendar.com/yinyang.htm"><img src="/images/2006/12/chinese-circular-calendar.gif" alt="chinese circular calendar" /></a>
+  <a href="http://www.chinesefortunecalendar.com/yinyang.htm"><img src="https://laurensperber.com/images/2006/12/chinese-circular-calendar.gif" alt="chinese circular calendar" /></a>
   <div class="caption">circular calendar recording changing shadow lengths throughout the year</div>
 </div>
 
@@ -37,7 +37,7 @@ Anyway, on Dongzh&igrave;, which is represented at the bottom of the yin-yang, f
 **[Yalda](http://en.wikipedia.org/wiki/Yalda):** Also not properly transliterated due to the egregious lack of support for [macrons](http://en.wikipedia.org/wiki/Macron) in xhtml, Yalda is the Persian celebration of the birth of the Sun god, Mithra&mdash;quite a logical celebration date for the birth of the sun, considering that, from the vantage point of the northern hemisphere, it gets progressively stronger in the ensuing days. Yalda was traditionally celebrated with bonfires, feasts, and, most interestingly, what Wikipedia calls &#8220;temporary subversion of order,&#8221; in which masters and servants apparently switched roles; today it&#8217;s a secular celebration featuring dried fruit.
 
 <div class="leftpic">
-  <a href="http://en.wikipedia.org/wiki/Freyr"><img src="/images/2006/12/freyr.jpg" alt="norse god of fertility" /></a>
+  <a href="http://en.wikipedia.org/wiki/Freyr"><img src="https://laurensperber.com/images/2006/12/freyr.jpg" alt="norse god of fertility" /></a>
   <div class="caption">the Norse fertility god <a href="http://en.wikipedia.org/wiki/Freyr">Freyr</a></div>
 </div>
 

@@ -26,7 +26,7 @@ tags:
 > So difficult it is to show the various meanings and imperfections of words when we have nothing else but words to do it with.
 
 <div class="leftpic">
-  <a href="http://flickr.com/photos/feuilllu/739173692/"><img src="/images/2008/07/feuillu-words.jpg" alt="words by feuillu" /></a>
+  <a href="http://flickr.com/photos/feuilllu/739173692/"><img src="https://laurensperber.com/images/2008/07/feuillu-words.jpg" alt="words by feuillu" /></a>
   <div class="caption">
     <a href="http://flickr.com/photos/feuilllu/739173692/">&#8220;WORDS&#8221;</a> by flickr user <a href="http://flickr.com/photos/feuilllu">feuillu</a>
   </div>
@@ -47,7 +47,7 @@ tags:
 **orthoepy** (or-THO-uh-pee, OR-tho-ep-ee): 1) Study of the pronunciation of words. 2) Customary pronunciation of a language.
 
 <div class="leftpic">
-  <a href="http://flickr.com/photos/juanillooo/324199938/"><img src="/images/2008/07/jsalmoral-more-than-words.jpg" alt="more than words by j salmoral" /></a>
+  <a href="http://flickr.com/photos/juanillooo/324199938/"><img src="https://laurensperber.com/images/2008/07/jsalmoral-more-than-words.jpg" alt="more than words by j salmoral" /></a>
   <div class="caption"><a href="http://flickr.com/photos/juanillooo/324199938/">&#8220;more than words&#8221;</a> by flickr user <a href="http://flickr.com/photos/juanillooo/">J.Salmoral</a></div>
 </div>
 
@@ -68,7 +68,7 @@ tags:
 </p>
 
 <div class="leftpic">
-  <a href="http://flickr.com/photos/kool_skatkat/92986414/"><img src="/images/2008/07/kool-skatkat-lost-words.jpg" alt="lost words by kool skatkat" /></a>
+  <a href="http://flickr.com/photos/kool_skatkat/92986414/"><img src="https://laurensperber.com/images/2008/07/kool-skatkat-lost-words.jpg" alt="lost words by kool skatkat" /></a>
   <div class="caption"><a href="http://flickr.com/photos/kool_skatkat/92986414/">&#8220;lost words&#8221;</a> by flickr user <a href="http://flickr.com/photos/kool_skatkat/">kool skatkat</a></div>
 </div>
 

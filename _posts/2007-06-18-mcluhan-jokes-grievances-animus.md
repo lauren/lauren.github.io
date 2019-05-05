@@ -12,7 +12,7 @@ categories:
   - culture
   - language
 ---
-[<img src="/images/2007/06/mcluhan.jpg" alt="marshall mcluhan" class="rightpic" />](http://www.marshallmcluhan.com/)
+[<img src="https://laurensperber.com/images/2007/06/mcluhan.jpg" alt="marshall mcluhan" class="rightpic" />](http://www.marshallmcluhan.com/)
 
 > One of the things that most people don&#8217;t understand about jokes is that they&#8217;re all grievances. Every joke is a grievance. [&#8230;] These grievance jokes are always getting rid of animus, and when jokes stop, then people are not getting rid of their grievances. 
 

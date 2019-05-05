@@ -20,7 +20,7 @@ tags:
   - rainbow
 ---
 <div class="leftpic">
-  <a href="http://en.wikipedia.org/wiki/Glory_(optical_phenomenon)"><img src="/images/2008/06/glory-wiki.jpg" alt="glory photo from wikipedia" /></a>
+  <a href="http://en.wikipedia.org/wiki/Glory_(optical_phenomenon)"><img src="https://laurensperber.com/images/2008/06/glory-wiki.jpg" alt="glory photo from wikipedia" /></a>
   <div class="caption">glory photo from <a href="http://en.wikipedia.org/wiki/Glory_(optical_phenomenon)">wikipedia</a></div>
 </div>
 

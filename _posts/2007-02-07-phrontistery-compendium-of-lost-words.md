@@ -11,7 +11,7 @@ dsq_thread_id:
 categories:
   - language
 ---
-<img src="/images/2007/02/the-phrontistery.jpg" alt="the phrontistery logo" class="rightpic" />
+<img src="https://laurensperber.com/images/2007/02/the-phrontistery.jpg" alt="the phrontistery logo" class="rightpic" />
 
 [Kenspeckle](http://kenspeckle.net) must be looking sad lately, because [Hebrew posters](http://kenspeckle.net/blog/2007/02/06/hebrew-posters-zionist-debate/) weren&#8217;t the only tip someone sent me yesterday.
 

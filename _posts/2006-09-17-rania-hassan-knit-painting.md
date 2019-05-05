@@ -14,7 +14,7 @@ categories:
   - internet
 ---
 <div class="rightpic">
-  <img src="/images/2006/09/rania-hassan-knit-painting-xvi.jpg" alt="Rania Hassan's Knit XVI" /><div class="caption">Rania Hassan&#8217;s <em>Knit XVI</em></div>
+  <img src="https://laurensperber.com/images/2006/09/rania-hassan-knit-painting-xvi.jpg" alt="Rania Hassan's Knit XVI" /><div class="caption">Rania Hassan&#8217;s <em>Knit XVI</em></div>
 </div>
 
 I like these nifty [knitting](http://goshdarnknit.blogspot.com/2006/09/three-days-to-go.html) [paintings](http://goshdarnknit.blogspot.com/2006/09/two-days-to-go.html) by [Rania Hassan](http://www.raniahassan.com "portfolio site").

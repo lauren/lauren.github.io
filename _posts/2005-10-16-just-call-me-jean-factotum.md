@@ -13,7 +13,7 @@ categories:
   - literature
 ---
 <div class="rightpic" style="width:200px;">
-  <img src="/images/2005/10/robert-greene-groatsworth-of-witte.gif" alt="groatsworth of witte" /><div class="caption">title page of Robert Greene&#8217;s <em>Groatsworth of Witte</em></div>
+  <img src="https://laurensperber.com/images/2005/10/robert-greene-groatsworth-of-witte.gif" alt="groatsworth of witte" /><div class="caption">title page of Robert Greene&#8217;s <em>Groatsworth of Witte</em></div>
 </div>
 
 A colleague of mine recently alerted me to the wonderous Latin phrase _Johannes factotum_, meaning a Jack of all trades with the bonus connotation of &#8220;would-be universal genius&#8221; that the phrase &#8220;Jack of all trades&#8221; most certainly lacks. The [_OED Online_](http://www.oed.com) entry for factotum elaborates:
