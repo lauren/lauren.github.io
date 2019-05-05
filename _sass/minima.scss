@@ -191,6 +191,10 @@ img {
     height: auto;
 }
 
+.border {
+    border: 1px solid $borderColor;
+}
+
 .rightpic {
     float: right;
     padding: 0em 0em 1em 1em;
