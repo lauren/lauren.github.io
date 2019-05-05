@@ -38,11 +38,11 @@ I’m going to tell you about the culture of engineering at Etsy and shared valu
 
 ### How I Work
 
-<img src="https://laurensperber.com/images/2016/02/4-dumbo-office-cropped-1024x655.jpg" alt="working in the Etsy office" width="1024" height="655" class="alignnone size-large wp-image-1039" srcset="/images/2016/02/4-dumbo-office-cropped-1024x655.jpg 1024w, /images/2016/02/4-dumbo-office-cropped-300x192.jpg 300w, /images/2016/02/4-dumbo-office-cropped-768x491.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<img src="https://laurensperber.com/images/2016/02/4-dumbo-office-cropped-1024x655.jpg" alt="working in the Etsy office" width="1024" height="655" class="alignnone size-large wp-image-1039" srcset="https://laurensperber.com/images/2016/02/4-dumbo-office-cropped-1024x655.jpg 1024w, https://laurensperber.com/images/2016/02/4-dumbo-office-cropped-300x192.jpg 300w, https://laurensperber.com/images/2016/02/4-dumbo-office-cropped-768x491.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
 There are two main types of programming work at Etsy. Product engineering directly affects the features that buyers and sellers see on Etsy.com and our mobile apps, while infrastructure engineering creates the underlying architecture that product engineers work on. I mainly do product engineering work, so I’ll give you a sense of what the daily work of a product engineer looks like.
 
-[<img src="https://laurensperber.com/images/2016/02/il_fullxfull.780761086_40e2-1024x1024.jpg" alt="a ceramic celtic knot" width="1024" height="1024" class="alignnone size-large wp-image-1040" srcset="/images/2016/02/il_fullxfull.780761086_40e2-1024x1024.jpg 1024w, /images/2016/02/il_fullxfull.780761086_40e2-150x150.jpg 150w, /images/2016/02/il_fullxfull.780761086_40e2-300x300.jpg 300w, /images/2016/02/il_fullxfull.780761086_40e2-768x768.jpg 768w, /images/2016/02/il_fullxfull.780761086_40e2.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" />](https://www.etsy.com/shop/CelticValleyCeramics)
+[<img src="https://laurensperber.com/images/2016/02/il_fullxfull.780761086_40e2-1024x1024.jpg" alt="a ceramic celtic knot" width="1024" height="1024" class="alignnone size-large wp-image-1040" srcset="https://laurensperber.com/images/2016/02/il_fullxfull.780761086_40e2-1024x1024.jpg 1024w, https://laurensperber.com/images/2016/02/il_fullxfull.780761086_40e2-150x150.jpg 150w, https://laurensperber.com/images/2016/02/il_fullxfull.780761086_40e2-300x300.jpg 300w, https://laurensperber.com/images/2016/02/il_fullxfull.780761086_40e2-768x768.jpg 768w, http://feeds.feedburner.com/images/2017/03/Screen-Shot-2017-03-20-at-6.26.01-PM.png/images/2016/02/il_fullxfull.780761086_40e2.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" />](https://www.etsy.com/shop/CelticValleyCeramics)
 
 <div class="caption">
   <a href="https://www.etsy.com/shop/CelticValleyCeramics">by CelticValleyCeramics</a>
@@ -54,7 +54,7 @@ When I’ve made a few small commits that together create a feature or resolve a
 
 Next, I run our automated tests to make sure my changes didn’t mistakenly affect other areas of the site. Testing your code isn&#8217;t formally required at Etsy, but there is cultural motivation to do so. These tests aren’t comprehensive, but they ensure that the main features of Etsy still work after my change. They also verify I haven’t made any syntax errors that my coworkers might not have spotted in the code review.
 
-[<img src="https://laurensperber.com/images/2016/02/il_fullxfull.669538094_94u5-1024x768.jpg" alt="small Irish flags" width="1024" height="768" class="alignnone size-large wp-image-1041" srcset="/images/2016/02/il_fullxfull.669538094_94u5-1024x768.jpg 1024w, /images/2016/02/il_fullxfull.669538094_94u5-300x225.jpg 300w, /images/2016/02/il_fullxfull.669538094_94u5-768x576.jpg 768w, /images/2016/02/il_fullxfull.669538094_94u5.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" />](https://www.etsy.com/shop/ooakie)
+[<img src="https://laurensperber.com/images/2016/02/il_fullxfull.669538094_94u5-1024x768.jpg" alt="small Irish flags" width="1024" height="768" class="alignnone size-large wp-image-1041" srcset="https://laurensperber.com/images/2016/02/il_fullxfull.669538094_94u5-1024x768.jpg 1024w, https://laurensperber.com/images/2016/02/il_fullxfull.669538094_94u5-300x225.jpg 300w, https://laurensperber.com/images/2016/02/il_fullxfull.669538094_94u5-768x576.jpg 768w, https://laurensperber.com/images/2016/02/il_fullxfull.669538094_94u5.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" />](https://www.etsy.com/shop/ooakie)
 
 <div class="caption">
   <a href="https://www.etsy.com/shop/ooakie">from ooakie</a>
@@ -68,7 +68,7 @@ To organize the many programmers trying to deploy at any given time, we use IRC,
 
 Once we’ve all confirmed our changes on Princess and the automated tests pass, the push driver presses another button to deploy to the production site. We check our code there and watch the error logs and graphs until we’re sure that we haven’t caused any unexpected issues. Once the driver declares the push complete, the next group can deploy.
 
-[<img src="https://laurensperber.com/images/2016/02/il_fullxfull.747194166_gvvg-1024x663.jpg" alt="pencil case made of fabric printed with beakers and test tubes" width="1024" height="663" class="alignnone size-large wp-image-1043" srcset="/images/2016/02/il_fullxfull.747194166_gvvg-1024x663.jpg 1024w, /images/2016/02/il_fullxfull.747194166_gvvg-300x194.jpg 300w, /images/2016/02/il_fullxfull.747194166_gvvg-768x497.jpg 768w, /images/2016/02/il_fullxfull.747194166_gvvg.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" />](https://www.etsy.com/shop/TheCuriousNeedle)
+[<img src="https://laurensperber.com/images/2016/02/il_fullxfull.747194166_gvvg-1024x663.jpg" alt="pencil case made of fabric printed with beakers and test tubes" width="1024" height="663" class="alignnone size-large wp-image-1043" srcset="https://laurensperber.com/images/2016/02/il_fullxfull.747194166_gvvg-1024x663.jpg 1024w, https://laurensperber.com/images/2016/02/il_fullxfull.747194166_gvvg-300x194.jpg 300w, https://laurensperber.com/images/2016/02/il_fullxfull.747194166_gvvg-768x497.jpg 768w, https://laurensperber.com/images/2016/02/il_fullxfull.747194166_gvvg.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" />](https://www.etsy.com/shop/TheCuriousNeedle)
 
 <div class="caption small">
   <a href="https://www.etsy.com/shop/TheCuriousNeedle">by TheCuriousNeedle</a>
@@ -84,7 +84,7 @@ Now that I’ve given you a sense of how product engineers build and release new
 
 #### Code Reviews
 
-[<img src="https://laurensperber.com/images/2016/02/il_fullxfull.648386817_s0lk-1024x762.jpg" alt="illustration of a cat reading a book" width="1024" height="762" class="alignnone size-large wp-image-1044" srcset="/images/2016/02/il_fullxfull.648386817_s0lk-1024x762.jpg 1024w, /images/2016/02/il_fullxfull.648386817_s0lk-300x223.jpg 300w, /images/2016/02/il_fullxfull.648386817_s0lk-768x571.jpg 768w, /images/2016/02/il_fullxfull.648386817_s0lk.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" />](https://www.etsy.com/shop/Victorianaprint)
+[<img src="https://laurensperber.com/images/2016/02/il_fullxfull.648386817_s0lk-1024x762.jpg" alt="illustration of a cat reading a book" width="1024" height="762" class="alignnone size-large wp-image-1044" srcset="https://laurensperber.com/images/2016/02/il_fullxfull.648386817_s0lk-1024x762.jpg 1024w, https://laurensperber.com/images/2016/02/il_fullxfull.648386817_s0lk-300x223.jpg 300w, https://laurensperber.com/images/2016/02/il_fullxfull.648386817_s0lk-768x571.jpg 768w, https://laurensperber.com/images/2016/02/il_fullxfull.648386817_s0lk.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" />](https://www.etsy.com/shop/Victorianaprint)
 
 <div class="caption small">
   <a href="https://www.etsy.com/shop/Victorianaprint">from Victorianaprint</a>
@@ -118,7 +118,7 @@ Reading my colleagues’ code consistently also helps me learn how my other prog
 
 #### Continuous Deployment
 
-[<img src="https://laurensperber.com/images/2016/02/il_fullxfull.677069120_fx4x-1024x768.jpg" alt="silkscreen print of knuckles tattooed with the words 'just ship'" width="1024" height="768" class="alignnone size-large wp-image-1047" srcset="/images/2016/02/il_fullxfull.677069120_fx4x-1024x768.jpg 1024w, /images/2016/02/il_fullxfull.677069120_fx4x-300x225.jpg 300w, /images/2016/02/il_fullxfull.677069120_fx4x-768x576.jpg 768w, /images/2016/02/il_fullxfull.677069120_fx4x.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" />](http://laughingmeme.org/)
+[<img src="https://laurensperber.com/images/2016/02/il_fullxfull.677069120_fx4x-1024x768.jpg" alt="silkscreen print of knuckles tattooed with the words 'just ship'" width="1024" height="768" class="alignnone size-large wp-image-1047" srcset="https://laurensperber.com/images/2016/02/il_fullxfull.677069120_fx4x-1024x768.jpg 1024w, https://laurensperber.com/images/2016/02/il_fullxfull.677069120_fx4x-300x225.jpg 300w, https://laurensperber.com/images/2016/02/il_fullxfull.677069120_fx4x-768x576.jpg 768w, /images/2016/02/il_fullxfull.677069120_fx4x.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" />](http://laughingmeme.org/)
 
 <div class="caption small">
   <a href="http://laughingmeme.org/">by Kellan Elliott-McCrea</a>
@@ -150,7 +150,7 @@ By pushing out the smallest possible changes as frequently as possible, we ensur
 
 #### Architecture Reviews
 
-[<img src="https://laurensperber.com/images/2016/02/il_fullxfull.892542903_sm7l-1024x639.jpg" alt="il_fullxfull.892542903_sm7l" width="1024" height="639" class="alignnone size-large wp-image-1064" srcset="/images/2016/02/il_fullxfull.892542903_sm7l.jpg 1024w, /images/2016/02/il_fullxfull.892542903_sm7l-300x187.jpg 300w, /images/2016/02/il_fullxfull.892542903_sm7l-768x479.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />](https://www.etsy.com/shop/DublinStreet)
+[<img src="https://laurensperber.com/images/2016/02/il_fullxfull.892542903_sm7l-1024x639.jpg" alt="il_fullxfull.892542903_sm7l" width="1024" height="639" class="alignnone size-large wp-image-1064" srcset="https://laurensperber.com/images/2016/02/il_fullxfull.892542903_sm7l.jpg 1024w, https://laurensperber.com/images/2016/02/il_fullxfull.892542903_sm7l-300x187.jpg 300w, https://laurensperber.com/images/2016/02/il_fullxfull.892542903_sm7l-768x479.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />](https://www.etsy.com/shop/DublinStreet)
 
 <div class="caption small">
   <a href="https://www.etsy.com/shop/DublinStreet">by DublinStreet</a>
@@ -180,7 +180,7 @@ Much like the daily practice of code reviews, architecture reviews ensure that e
 
 #### Blameless Post-Mortems
 
-[<img src="https://laurensperber.com/images/2016/02/il_fullxfull.797221886_o8xm-1024x1024.jpg" alt="embroidered tombstone" width="1024" height="1024" class="alignnone size-large wp-image-1053" srcset="/images/2016/02/il_fullxfull.797221886_o8xm-1024x1024.jpg 1024w, /images/2016/02/il_fullxfull.797221886_o8xm-150x150.jpg 150w, /images/2016/02/il_fullxfull.797221886_o8xm-300x300.jpg 300w, /images/2016/02/il_fullxfull.797221886_o8xm-768x768.jpg 768w, /images/2016/02/il_fullxfull.797221886_o8xm.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" />](https://www.etsy.com/shop/TrashMagic)
+[<img src="https://laurensperber.com/images/2016/02/il_fullxfull.797221886_o8xm-1024x1024.jpg" alt="embroidered tombstone" width="1024" height="1024" class="alignnone size-large wp-image-1053" srcset="https://laurensperber.com/images/2016/02/il_fullxfull.797221886_o8xm-1024x1024.jpg 1024w, https://laurensperber.com/images/2016/02/il_fullxfull.797221886_o8xm-150x150.jpg 150w, https://laurensperber.com/images/2016/02/il_fullxfull.797221886_o8xm-300x300.jpg 300w, https://laurensperber.com/images/2016/02/il_fullxfull.797221886_o8xm-768x768.jpg 768w, https://laurensperber.com/images/2016/02/il_fullxfull.797221886_o8xm.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" />](https://www.etsy.com/shop/TrashMagic)
 
 <div class="caption small">
   <a href="https://www.etsy.com/shop/TrashMagic">TrashMagic</a>
@@ -210,7 +210,7 @@ Those are four of the key Engineering practices at Etsy: Code Reviews, Continuou
 
 #### Empowering Trust
 
-[<img src="https://laurensperber.com/images/2016/02/il_fullxfull.905092584_2ilh-768x1024.jpg" alt="painting of an angel" width="768" height="1024" class="alignnone size-large wp-image-1056" srcset="/images/2016/02/il_fullxfull.905092584_2ilh-768x1024.jpg 768w, /images/2016/02/il_fullxfull.905092584_2ilh-225x300.jpg 225w, /images/2016/02/il_fullxfull.905092584_2ilh.jpg 1125w" sizes="(max-width: 768px) 100vw, 768px" />](https://www.etsy.com/shop/SarahMurphyInspires)
+[<img src="https://laurensperber.com/images/2016/02/il_fullxfull.905092584_2ilh-768x1024.jpg" alt="painting of an angel" width="768" height="1024" class="alignnone size-large wp-image-1056" srcset="https://laurensperber.com/images/2016/02/il_fullxfull.905092584_2ilh-768x1024.jpg 768w, https://laurensperber.com/images/2016/02/il_fullxfull.905092584_2ilh-225x300.jpg 225w, https://laurensperber.com/images/2016/02/il_fullxfull.905092584_2ilh.jpg 1125w" sizes="(max-width: 768px) 100vw, 768px" />](https://www.etsy.com/shop/SarahMurphyInspires)
 
 <div class="caption small">
   <a href="https://www.etsy.com/shop/SarahMurphyInspires">SarahMurphyInspires</a>
@@ -220,7 +220,7 @@ Etsy aims to empower the engineers working on a particular project to make the t
 
 #### Collaborative Accountability
 
-[<img src="https://laurensperber.com/images/2016/02/il_fullxfull.786268850_dc1p-1024x1024.jpg" alt="wax painting of two women" width="1024" height="1024" class="alignright size-large wp-image-1057" srcset="/images/2016/02/il_fullxfull.786268850_dc1p-1024x1024.jpg 1024w, /images/2016/02/il_fullxfull.786268850_dc1p-150x150.jpg 150w, /images/2016/02/il_fullxfull.786268850_dc1p-300x300.jpg 300w, /images/2016/02/il_fullxfull.786268850_dc1p-768x768.jpg 768w, /images/2016/02/il_fullxfull.786268850_dc1p.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" />](https://www.etsy.com/shop/LittleWaxyArtSpace)
+[<img src="https://laurensperber.com/images/2016/02/il_fullxfull.786268850_dc1p-1024x1024.jpg" alt="wax painting of two women" width="1024" height="1024" class="alignright size-large wp-image-1057" srcset="https://laurensperber.com/images/2016/02/il_fullxfull.786268850_dc1p-1024x1024.jpg 1024w, https://laurensperber.com/images/2016/02/il_fullxfull.786268850_dc1p-150x150.jpg 150w, https://laurensperber.com/images/2016/02/il_fullxfull.786268850_dc1p-300x300.jpg 300w, https://laurensperber.com/images/2016/02/il_fullxfull.786268850_dc1p-768x768.jpg 768w, https://laurensperber.com/images/2016/02/il_fullxfull.786268850_dc1p.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" />](https://www.etsy.com/shop/LittleWaxyArtSpace)
 
 <div class="caption small">
   <a href="https://www.etsy.com/shop/LittleWaxyArtSpace">by LittleWaxyArtSpace</a>
@@ -230,7 +230,7 @@ Through code reviews and architecture reviews, Etsy engineers work collaborative
 
 #### Continuous Learning
 
-[<img src="https://laurensperber.com/images/2016/02/il_fullxfull.860309167_bab9.jpg" alt="il_fullxfull.860309167_bab9" width="570" height="570" class="alignnone size-full wp-image-1058" srcset="/images/2016/02/il_fullxfull.860309167_bab9.jpg 570w, /images/2016/02/il_fullxfull.860309167_bab9-150x150.jpg 150w, /images/2016/02/il_fullxfull.860309167_bab9-300x300.jpg 300w" sizes="(max-width: 570px) 100vw, 570px" />](https://www.etsy.com/shop/ThingsWeLeftBehind)
+[<img src="https://laurensperber.com/images/2016/02/il_fullxfull.860309167_bab9.jpg" alt="il_fullxfull.860309167_bab9" width="570" height="570" class="alignnone size-full wp-image-1058" srcset="https://laurensperber.com/images/2016/02/il_fullxfull.860309167_bab9.jpg 570w, https://laurensperber.com/images/2016/02/il_fullxfull.860309167_bab9-150x150.jpg 150w, https://laurensperber.com/images/2016/02/il_fullxfull.860309167_bab9-300x300.jpg 300w" sizes="(max-width: 570px) 100vw, 570px" />](https://www.etsy.com/shop/ThingsWeLeftBehind)
 
 <div class="caption small">
   <a href="https://www.etsy.com/shop/ThingsWeLeftBehind">by ThingsWeLeftBehind</a>
@@ -244,7 +244,7 @@ It would be a big cultural _faux pas_ at Etsy to express surprise that a questio
 
 #### Good Lookin’ Out
 
-[<img src="https://laurensperber.com/images/2016/02/looking-out.jpg" alt="looking-out" width="420" height="274" class="alignnone size-full wp-image-1059" srcset="/images/2016/02/looking-out.jpg 420w, /images/2016/02/looking-out-300x196.jpg 300w" sizes="(max-width: 420px) 100vw, 420px" />](https://www.etsy.com/shop/ModelsAndCraftShop)
+[<img src="https://laurensperber.com/images/2016/02/looking-out.jpg" alt="looking-out" width="420" height="274" class="alignnone size-full wp-image-1059" srcset="https://laurensperber.com/images/2016/02/looking-out.jpg 420w,https://laurensperber.com/images/2016/02/looking-out-300x196.jpg 300w" sizes="(max-width: 420px) 100vw, 420px" />](https://www.etsy.com/shop/ModelsAndCraftShop)
 
 <div class="caption small">
   <a href="https://www.etsy.com/shop/ModelsAndCraftShop">from ModelsAndCraftShop</a>
@@ -258,7 +258,7 @@ Engineers also help anyone in a non-technical role at Etsy who’s interested wr
 
 These four principles—empowering trust, collective accountability, continuous learning, and looking out for each other—help our programmers work productively by minimizing our fear of being judged negatively for not knowing something about our code base or making a mistake. Missteps are actively embraced as part of the ongoing process of learning and innovation.
 
-<img src="https://laurensperber.com/images/2016/02/3as-1024x524.png" alt="screenshot of etsy's error page featuring an illustration of a woman knitting a sweater with three arms" width="1024" height="524" class="alignnone size-large wp-image-1060" srcset="/images/2016/02/3as-1024x524.png 1024w, /images/2016/02/3as-300x154.png 300w, /images/2016/02/3as-768x393.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<img src="https://laurensperber.com/images/2016/02/3as-1024x524.png" alt="screenshot of etsy's error page featuring an illustration of a woman knitting a sweater with three arms" width="1024" height="524" class="alignnone size-large wp-image-1060" srcset="https://laurensperber.com/images/2016/02/3as-1024x524.png 1024w, https://laurensperber.com/images/2016/02/3as-300x154.png 300w, https://laurensperber.com/images/2016/02/3as-768x393.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
 In fact, each year we even celebrate the incident in which one of our engineers caused the most surprising unintended consequences while trying to improve our technology with an award that we call the Three-Armed Sweater after this adorable illustration on our error page. This annual reflection on the previous year’s learnings reminds us that we must take risks to keep our product and technology moving forward, and that unintended consequences of these calculated risks are worthwhile if we analyze their causes and learn from them rather than covering them up from fear of retribution. 
 
