@@ -65,3 +65,5 @@ Cast on 48 stitches for a small hat or 56 stitches for a large hat. Join, being 
 Turn the hat inside-out, so the reverse stockinette is facing you. Pull the ball of yarn through the center of your needles so that the end of yarn that goes to the ball falls outside of the work. Slip half of the stitches (24 for a small hat, 28 for a large hat) onto your extra needle and do a <a href="https://www.purlsoho.com/create/3-needle-bind-off-video/" target="_blank">three-needle bind-off</a> by using the far end of the original circular needle (or a fourth size 13 needle if you prefer) to knit together the active stitches from each needle. <a href="https://www.purlsoho.com/create/3-needle-bind-off-video/" target="_blank">Read a more detailed description of a three-needle bind-off with pictures</a>.
 
 Weave in the ends from the bind-off and the cast-on ends.
+
+blah
