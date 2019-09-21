@@ -164,6 +164,7 @@ body {
 
 main {
     min-height: 20em;
+    text-align: center;
 }
 
 header {
@@ -173,15 +174,18 @@ header {
 section {
     box-sizing: border-box;
     width: 100%;
+    max-width: 800px;
     clear: both;
-    float: left;
     padding: 1em 4em;
+    margin: 0 auto;
+    text-align: left;
 }
 
 .footer {
     @extend %small;
     padding-bottom: 2em;
     color: $white;
+    max-width: 100%;
     a {
         color: $white;
         text-decoration: underline;
