@@ -1,0 +1,298 @@
+/** VARIABLES **/
+
+// grays
+$black:                 #000;
+$grayDarker:            #222;
+$grayDark:              #333;
+$gray:                  #555;
+$grayLight:             #999;
+$grayLighter:           #eee;
+$grayLightest:			#fafafa;
+$white:                 #fff; 
+
+// colors 
+$pink: #d41033;
+$bodyFontColor: $grayDarker;
+$highlightFontColor: $pink;
+$borderColor: $grayLight;
+
+// typography
+$fontsize: 20px;
+$lineheight: 31px;
+$headline-font: "Adelle", serif;
+$headline-weight: 100;
+$body-font: "Source Sans Pro", sans-serif;
+$body-weight: 300;
+
+/** MIXINS **/
+
+@mixin transition($transition) {
+    -webkit-transition: $transition;
+       -moz-transition: $transition;
+         -o-transition: $transition;
+            transition: $transition;
+}
+  
+@mixin color-transition {
+    @include transition(color .5s ease-in-out);
+}
+
+@mixin left-transition {
+    @include transition(left .5s ease-in-out);
+}
+
+@mixin opacity-transition {
+    @include transition(opacity .5s ease-in-out);
+}
+
+@mixin link-color-transition($color) {
+    color: $color;
+    @include color-transition;
+    text-decoration:none;
+}
+
+@mixin link-opacity-transition($color) {
+    color: $color;
+    @include opacity-transition;
+    text-decoration:none;
+}
+
+/** STYLES **/
+
+// typography
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: $headline-font;
+	font-weight: $headline-weight;
+	text-rendering: optimizeSpeed;
+}
+
+h1 { 
+	line-height: $lineheight * 2; 
+    font-size: $fontsize * 2.75; 
+    margin: 0em;
+    padding: 1.5em 0em;
+    a {
+        color: $white;
+        &:hover {
+            color: $white;
+        }
+    }
+} 
+
+h2 { 
+	line-height: $lineheight * 1.3;
+    font-size: $fontsize * 2.25; 
+    text-align: center;
+}
+
+h3 { 
+	line-height: $lineheight * 1.15;
+    font-size: $fontsize * 1.75; 
+    margin-top: 0em;
+    text-align: center;
+}
+
+h4 { 
+	line-height: $lineheight * 1.1;
+    font-size: $fontsize * 1.1;
+    margin-bottom: 0em;
+    text-align: center;
+} 
+
+h5 { 
+    font-size: $fontsize; 
+    line-height: $lineheight;
+}
+
+h6 { 
+	font-size: $fontsize * 0.85; 
+} 
+
+a {
+	@include link-color-transition($highlightFontColor);
+	&:hover {
+		@include link-color-transition($grayDarker);
+    }
+    &.icons {
+        @include link-color-transition($bodyFontColor);
+        &:hover {
+            @include link-color-transition($highlightFontColor);
+        }
+    }
+}
+
+blockquote p {
+    line-height: $lineheight * 0.75;
+    color: $grayLight;
+}
+
+%small {
+	line-height: $lineheight * 0.6;
+	font-size: $fontsize * 0.75;
+	font-weight:400;
+}
+
+.caption {
+    @extend %small;
+}
+
+p + .caption {
+    margin-top: -1.5em;
+}
+
+ul {	
+	margin-bottom: 1.25em;
+}
+
+li {
+	line-height: $lineheight * 0.85;
+}
+
+.rss {
+    display: none;
+}
+
+// layout
+
+body {
+    margin: 0;
+	font-weight: $body-weight;
+	font-size: $fontsize;
+	line-height: $lineheight;
+	font-family: $body-font;
+    color: $bodyFontColor;
+    min-height: 100%;
+}
+
+main {
+    min-height: 20em;
+    text-align: center;
+}
+
+header {
+    text-align: center;
+}
+
+section {
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 800px;
+    clear: both;
+    padding: 1em 4em;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.footer {
+    @extend %small;
+    padding-bottom: 2em;
+    color: $white;
+    max-width: 100%;
+    position: fixed;
+    bottom: 0;
+    a {
+        color: $white;
+        text-decoration: underline;
+        &:hover {
+            color: $white;
+        }
+    }
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.border {
+    border: 1px solid $borderColor;
+}
+
+.rightpic {
+    float: right;
+    padding: 0em 0em 1em 1em;
+}
+
+.leftpic {
+    float: left;
+    padding: 1em 1em 0em 0em;
+}
+
+.text-center {
+    margin: 0 auto;
+    text-align: center;
+}
+
+ul.icons {
+    text-indent:0px;
+    list-style-type:none;
+    margin: 1em 0em;
+    padding: 0;
+	li {
+		filter: none;
+        zoom: normal;
+        display: inline;
+        padding: 1em;
+	}
+	a {
+		color: $bodyFontColor;
+		@include color-transition;
+		&:hover {
+			color: $highlightFontColor;
+			text-decoration:none;
+			@include color-transition;
+		}
+	}
+}
+
+.bg-skate {
+    background: url("/images/skate1.jpg") no-repeat;
+    background-size: cover;
+    background-position-y: bottom;
+}
+
+.bg-skate-2 {
+    background: url("/images/skate2.jpg") no-repeat;
+    background-size: cover;
+    background-position-y: bottom;
+}
+
+.text-background {
+    background: $white;
+    opacity: 0.8;
+    padding: 1em;
+}
+
+@media (max-width: 700px) {
+    body {
+        padding-bottom: 1em;
+    }
+
+    section {
+        padding: 1em;
+    }
+
+    .rightpic, .leftpic {
+        float: none;
+        padding: 0em;
+    }
+
+    .hide-xs {
+        display: none;
+    }
+
+    .show-xs {
+        display: block;
+    }
+}
+
+@media (min-width: 701px) {
+    .hide-xs {
+        display: block;
+    }
+
+    .show-xs {
+        display: none;
+    }
+}
