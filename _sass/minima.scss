@@ -71,11 +71,11 @@ h1 {
 	line-height: $lineheight * 2; 
     font-size: $fontsize * 2.75; 
     margin: 0em;
-    padding: 1.5em 0em;
+    padding: 1.5em 0em 0.5em 0em;
     a {
-        color: $white;
+        color: $black;
         &:hover {
-            color: $white;
+            color: $pink;
         }
     }
 } 
@@ -253,7 +253,7 @@ ul.icons {
 }
 
 .bg-skate-2 {
-    background: url("/images/skate2.jpg") no-repeat;
+    background: url("/images/skate1.jpg") no-repeat;
     background-size: cover;
     background-position-y: bottom;
 }
